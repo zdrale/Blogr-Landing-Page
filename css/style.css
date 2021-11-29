@@ -1,0 +1,21 @@
+@media only screen and (max-width: 375px) {
+  .intro {
+    height: 100vh;
+    width: 100%;
+    background-image: url(../images/bg-pattern-intro-mobile.svg),
+      linear-gradient(
+        0deg,
+        rgba(250, 81, 81, 1) 0%,
+        rgba(255, 112, 112, 0.9668242296918768) 50%
+      );
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    background-position: 33% 23%;
+  }
+
+  .navigation {
+    padding: 45px 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+}
