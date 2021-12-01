@@ -136,4 +136,26 @@ body {
     position: relative;
     top: -195px;
   }
+
+  .blogr {
+    margin-top: 50px;
+    text-align: center;
+  }
+
+  .blogr h3 {
+    font-size: 1.5em;
+    font-weight: 600;
+    margin-bottom: 50px;
+    color: #1f3f5b;
+    margin-top: 30px;
+  }
+
+  .blogr p {
+    color: #1f3f5b;
+    line-height: 1.5;
+  }
+
+  .blogr img {
+    width: 100%;
+  }
 }
