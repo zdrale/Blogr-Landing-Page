@@ -70,6 +70,10 @@ body {
     margin-bottom: 50px;
   }
 
+  .design img {
+    width: 100%;
+  }
+
   .about {
     text-align: center;
     padding-top: 100px;
@@ -128,6 +132,7 @@ body {
 
   .infrastructure img {
     height: 440px;
+    width: 100%;
     position: relative;
     top: -195px;
   }
