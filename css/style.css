@@ -65,4 +65,33 @@ body {
     text-align: center;
     line-height: 1.5;
   }
+
+  .design {
+    margin-bottom: 50px;
+  }
+
+  .about {
+    text-align: center;
+    padding-top: 100px;
+    margin-bottom: 50px;
+  }
+
+  .about p {
+    color: #4b5862;
+  }
+
+  .about h3 {
+    font-size: 1.5em;
+    font-weight: 600;
+    margin-bottom: 50px;
+    color: #1f3f5b;
+  }
+
+  .introduction,
+  .robus {
+    margin-bottom: 100px;
+    padding: 0 50px;
+    line-height: 1.5;
+    text-align: center;
+  }
 }
